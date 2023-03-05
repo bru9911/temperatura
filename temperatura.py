@@ -20,3 +20,6 @@ kelvin = celsius + 273.15
 print("Celsius: ", celsius)
 print("Fahrenheit: ", fahrenheit)
 print("Kelvin: ", kelvin)
+
+
+# Este algoritmo começa perguntando ao usuário qual a unidade de temperatura e o valor da temperatura. Em seguida, ele converte a temperatura para Celsius, se necessário, usando um if-elif-else. Em seguida, ele converte a temperatura para Fahrenheit e Kelvin e exibe os resultados das conversões.
